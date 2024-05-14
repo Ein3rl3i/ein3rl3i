@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Audiovisuelle Medien in Stuttgart
 
 <!--
 **Ein3rl3i/ein3rl3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
